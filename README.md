@@ -1,4 +1,4 @@
-# Macchine di Turing per Arduino
+# Macchina di Turing per Arduino
 
 Con Arduino è possibile creare una specie di MdTU, capace infatti di simulare una Macchina di Turing.
 Arduino è una piattaforma fisica open-source, basata su un microcontrollore e programmabile in linguaggio C-like.  Arduino presenta vari Pin, a cui si collegano i vari dispositivi che si vogliono integrare nel circuito.
