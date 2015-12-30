@@ -57,3 +57,5 @@ Led + / 5v	Led -  /Pin	Risultato
 Quindi il pin dovrà fornire carica negativa.
 In caso utilizzassimo una batteria esterna, usando la logica negata possiamo alimentare i led direttamente con la batteria, evitando così di alimentarli direttamente con arduino, al quale saranno così collegati solo i poli negativi
 
+#Offrimi un caffè
+https://www.paypal.me/riccardodibenedetto
